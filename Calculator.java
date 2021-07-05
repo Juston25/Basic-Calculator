@@ -1,4 +1,4 @@
-/* This is a Calculator that is used for making mathematical calculations. It was created by Juston in 2021. 
+/* This is a Calculator that is used for making basic mathematical calculations. It was created by Juston in 2021. 
 */
 public class Calculator{
   public Calculator(){ 
